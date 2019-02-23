@@ -9,8 +9,12 @@ tags:
 - engineering
 - research
 slug: ''
----
+menu:
+  navigation:
+    weight: 6
+    title: sdafsdafsdafsdafasdf
 
+---
 ## Overview
 
 Epilepsy is a brain disorder that affects millions of North Americans. Characterized by abnormal neuronal signaling, symptoms of epilepsy are change in emotion, change in behavior, loss of consciousness, muscle spasms and convulsions.  
